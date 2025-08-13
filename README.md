@@ -24,6 +24,3 @@ Based on the To-Do List project tutorial by **GreatStack**.
 
 ## Website Link
 https://js-practice-to-do-list.netlify.app/
-
-## Website Link
-*(Add your deployed app link here if you have one)*
